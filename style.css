@@ -21,7 +21,14 @@
 }
 canvas 
 {
-  border:5px solid white;
+  border:5px solid rgb(17, 214, 155);
   border-radius:20px;
-  box-shadow:5px 5px 5px grey;
+  box-shadow:10px 10px 10px grey;
+}
+
+video
+{
+  border:5px solid rgb(17, 214, 155);
+  border-radius:20px;
+  box-shadow:10px 10px 10px grey;
 }
